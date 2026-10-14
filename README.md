@@ -10,7 +10,7 @@ Trabalho final da disciplina de Design Patterns — PUCPR.
 |---|---|
 | Eduardo Pereira | Builder, Singleton |
 | Patrick de Oliveira | Strategy, Template Method |
-| Matheus Fraiz | Decorator, Composite |
+| Matheus Fraiz de Camargo Antonello | Decorator, Composite |
 | Roberto Zhou | Chain of Responsibility, Observer |
 
 ## Vídeo de apresentação
